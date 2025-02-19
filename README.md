@@ -1,4 +1,4 @@
-# My Awesome Project
+# My i3 Dotfiles
 
 Welcome to my dotfiles
 
@@ -37,4 +37,4 @@ sudo dnf install dunst i3 kitty neofetch neovim picom polybar
 ```bash
 git clone https://github.com/RhapsodyInBlueMelody/my-i3-dot-files.git
 ```
-copy the .config file to your .config location in home (probabbly)
+copy the .config file to your .config location in home (probably)
